@@ -25,4 +25,4 @@ function languageInfo(language) {
   return info;
 }
 
-console.log(languageInfo("arabic"));
+console.log(languageInfo("Arabic"));
