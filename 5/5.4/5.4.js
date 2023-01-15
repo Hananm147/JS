@@ -16,3 +16,4 @@ function colors(color) {
       return "unknown color";
   }
 }
+console.log(colors(""));
